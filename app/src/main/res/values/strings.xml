@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Himno UAGRM</string>
+    <string name="titulo_himno">Himno UAGRM</string>
+    <string name="letra_himno">
+Juventud, fuerza eterna itú impulso vibra altiva esta voz, libertad! y te lleve a crear nuevos mundos de belleza, justicia y verdad, que los patrios destinos resurjan de tu verbo y tu acción ejemplar y no cedan jamás el influjo de los odios, la guerra, el azar.
+Gestaras nuestra historia quebrando de su curso la curva fatal que no en vano Alma Mater te llaman y es la ciencia tu luz inmortal.
+Tuya es siempre la escuela de próceres tuyo el signo triunfal del laurel sigue siendo el vigor en las luchas y del rey pensamiento el troquel.
+Semillero de auroras la frente tus ideas torrentes de pie que te inspira fecundo optimismo cual un ala de amor y de fe.
+Y te brinde esta tierra la magia del horizonte universo crisol con el vasto saber de moreno y su selva radiante de sol.
+
+Juventud radiante de sol.</string>
+    <string name="letra_musica">Letra: Leonor Rivera Arteaga Música: Susano Azogue</string>
 </resources>
