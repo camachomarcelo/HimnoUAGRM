@@ -1,13 +1,36 @@
 <resources>
     <string name="app_name">Himno UAGRM</string>
-    <string name="titulo_himno">Himno UAGRM</string>
+    <string name="titulo_himno">Himno a la UAGRM</string>
     <string name="letra_himno">
-Juventud, fuerza eterna itú impulso vibra altiva esta voz, libertad! y te lleve a crear nuevos mundos de belleza, justicia y verdad, que los patrios destinos resurjan de tu verbo y tu acción ejemplar y no cedan jamás el influjo de los odios, la guerra, el azar.
-Gestaras nuestra historia quebrando de su curso la curva fatal que no en vano Alma Mater te llaman y es la ciencia tu luz inmortal.
-Tuya es siempre la escuela de próceres tuyo el signo triunfal del laurel sigue siendo el vigor en las luchas y del rey pensamiento el troquel.
-Semillero de auroras la frente tus ideas torrentes de pie que te inspira fecundo optimismo cual un ala de amor y de fe.
-Y te brinde esta tierra la magia del horizonte universo crisol con el vasto saber de moreno y su selva radiante de sol.
+Juventud, fuerza eterna tu impulso\n
+vibra altiva esta voz, libertad\n
+Y te lleve a crear nuevos mundos\n
+de belleza, justicia y verdad\n
+que los patrios destinos resurjan\n
+de tu verbo y tu acción ejemplar\n
+y no cedan jamás al influjo\n
+de los odios, la guerra, el azar.\n\n
 
-Juventud radiante de sol.</string>
+Gestarás nuestra historia quebrando\n
+de su curso la curva fatal\n
+que no en vano alma mater te llaman\n
+y es la ciencia tu luz inmortal.\n\n
+
+Tuya es siempre la escuela de próceres\n
+tuyo el signo triunfal del laurel\n
+sigue siendo el vigor en las luchas\n
+y del rey pensamiento el troquel.\n\n
+
+Semillero de auroras la frente\n
+tus ideas torrentes de pie\n
+que te inspira fecundo optimismo\n
+cual un ala de amor y de fe\n
+y te brinde esta tierra la magia\n
+del horizonte universo crisol\n
+con el vasto saber de moreno\n
+y su selva radiante de sol.\n\n
+
+¡Juventud radiante de sol!
+</string>
     <string name="letra_musica">Letra: Leonor Rivera Arteaga Música: Susano Azogue</string>
 </resources>
